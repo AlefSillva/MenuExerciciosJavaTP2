@@ -1,6 +1,6 @@
 # MenuExerciciosJavaTP2
 
-Este projeto é uma implementação em Java de um menu interativo para executar diferentes exercícios de programação. O objetivo do projeto é demonstrar o uso de estruturas de controle de fluxo (como loops e condicionais) em Java, além de práticas de programação orientada a objetos (POO).
+Este projeto é uma implementação em Java de um menu interativo que permite ao usuário acessar e executar diferentes exercícios de programação. O principal objetivo é demonstrar a aplicação de conceitos fundamentais de Java, como estruturas de controle de fluxo (loops e condicionais), manipulação de dados e organização do código. O menu oferece uma interface simples para selecionar e executar os exercícios.
 
 ## Descrição
 
